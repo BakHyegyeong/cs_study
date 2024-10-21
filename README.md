@@ -14,7 +14,7 @@
 
 ## 1. 💻 Operating System
 
-📖 Contents
+📖 [Contents](https://github.com/inflearn-cs-study/cs/blob/main/Operating%20System/Question.md)
 
 1. OS란 무엇이며, 핵심 기능은?
 2. 부팅이 되는 과정을 설명하시오.
