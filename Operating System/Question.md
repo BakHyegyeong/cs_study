@@ -1,18 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=9EF1FB&height=300&section=header&text=인프런%20CS%20스터디&fontSize=90)
-
-### 😀 참여자 
-
-|<img src="https://avatars.githubusercontent.com/abcdana" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/lin-chae" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/BakHyegyeong" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/wjdwwidz" width="150" height="150"/>
-|:-:|:-:|:-:|:-:|
-[**김다연**](https://github.com/abcdana)|[**김채린**](https://github.com/lin-chae)|[**박혜경**](https://github.com/BakHyegyeong)|[**이정혜**](https://github.com/wjdwwidz)|
-
-
-### ⏰ 일정
-
-일시 : 매주 월~금 오후 1시 반
-
-
-## 1. 💻 Operating System
+# 1. Operating System
 
 📖 Contents
 
