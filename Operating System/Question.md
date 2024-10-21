@@ -2,7 +2,7 @@
 
 📖 Contents
 
-1. OS란 무엇이며, 핵심 기능은?
+1. [OS란 무엇이며, 핵심 기능은?](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_01)
 2. 부팅이 되는 과정을 설명하시오.
 3. 프로세스의 5가지 상태에 대해 설명하시오.
 4. 메모리 계층 구조를 설명하시오.
