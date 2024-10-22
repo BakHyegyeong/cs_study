@@ -45,7 +45,7 @@
 
 ## 프로세스의 메모리 구조
 
-: 프로세스의 메모리는 **스택, 힙, 데이터 영역(BSS segment, Data segment), 코드 영역(Code segment)**로 이루어져 있다.
+: 프로세스의 메모리는 **스택, 힙, 데이터 영역(BSS segment, Data segment), 코드 영역(Code segment)** 로 이루어져 있다.
 
 ![alt text](OS_02_Bakhyegyeong.png)
 
