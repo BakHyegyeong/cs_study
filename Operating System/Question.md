@@ -4,8 +4,8 @@
 
 1. 운영체제의 개념과 핵심 기능
    - [OS란 무엇이며, 핵심 기능은?](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_01)
-    - 프로세스의 5가지 상태에 대해 설명하시오.
-    - 프로세스의 메모리 구조
+    - [프로세스의 5가지 상태에 대해 설명하시오.](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_02)
+    - [프로세스의 메모리 구조](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_02)
 
 2. 부팅 과정 및 문맥 교환
     - 부팅이 되는 과정을 설명하시오.
