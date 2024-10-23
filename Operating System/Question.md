@@ -8,9 +8,9 @@
     - [프로세스의 메모리 구조](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_02)
 
 2. 부팅 과정 및 문맥 교환
-    - 부팅이 되는 과정을 설명하시오.
+    - [부팅이 되는 과정을 설명하시오.](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_03)
     - 문맥 교환이란?
-    - PCB란?
+    - [PCB란?](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_03)
 
 3. 메모리 관리와 관련된 개념
     - 메모리 계층 구조를 설명하시오.
