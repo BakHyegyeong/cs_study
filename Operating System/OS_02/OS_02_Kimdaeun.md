@@ -1,5 +1,6 @@
 # 프로세스의 5가지 상태에 대해 설명하시오.
-![YvsaPHI.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/d832c387-789a-42ea-bb12-48d20a191c84/fb3816e9-563c-44b8-ba70-74f7160ff262/YvsaPHI.jpg)
+
+<img src="https://velog.velcdn.com/images%2Fckstn0777%2Fpost%2F677e5a4b-d724-469f-8b13-e13cd92ced09%2Fimage.png">
 
 ### **1. New (생성 상태)**
 
@@ -32,7 +33,7 @@
 
 메모리 공간은 크게 **코드(Code)**, **데이터(Data)**, **힙(Heap)**, **스택(Stack)** 이렇게 4가지로 나뉜다.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d832c387-789a-42ea-bb12-48d20a191c84/f60e3679-8787-435b-8e98-5ad9e44d2aea/image.png)
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcNHa81%2Fbtq6U9JzfCj%2F1qsHbRNVaxXIa6yGatGzm0%2Fimg.png">
 
 ### **▶ 코드(Code) 영역**
 
