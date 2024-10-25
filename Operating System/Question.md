@@ -11,10 +11,11 @@
     - [부팅이 되는 과정을 설명하시오.](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_03)
     - [문맥 교환이란?](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_04)
     - [PCB란?](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_03)
+    - [프로세스 vs 쓰레드 (+TCB)](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_05)
 
 3. 메모리 관리와 관련된 개념
-    - 메모리 계층 구조를 설명하시오.
-    - 캐시와 버퍼의 차이점은?
+    - [메모리 계층 구조를 설명하시오.](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_05)
+    - [캐시와 버퍼의 차이점은?](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_05)
     - 메모리 단편화, 페이징, 세그멘테이션
     - 가상메모리란?
     - thrashing이란?
