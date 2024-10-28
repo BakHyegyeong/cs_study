@@ -6,8 +6,8 @@
    - [OS란 무엇이며, 핵심 기능은?](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_01)
     - [프로세스의 5가지 상태에 대해 설명하시오.](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_02)
     - [프로세스의 메모리 구조](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_02)
-    - 프로세스 스케줄링이 필요한 이유
-    - 선점 스케줄링과 비선점 스케줄링의 차이점과 대표적인 알고리즘
+    - [프로세스 스케줄링이 필요한 이유](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_06)
+    - [선점 스케줄링과 비선점 스케줄링의 차이점과 대표적인 알고리즘](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_06)
 
 2. 부팅 과정 및 문맥 교환
     - [부팅이 되는 과정을 설명하시오.](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_03)
@@ -31,4 +31,4 @@
     - 멀티프로세싱, 멀티프로그래밍, 멀티스레딩, 멀티태스킹
     - 톰캣은 멀티 프로세스인가 멀티 스레드인가?
     - 아파치는 멀티 프로세스인가 멀티 스레드인가?
-    - [스레드와 프로세스의 차이]((https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_05))
+    - [스레드와 프로세스의 차이](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_05)
