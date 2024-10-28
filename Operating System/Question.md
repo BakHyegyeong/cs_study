@@ -1,8 +1,5 @@
 # 1. Operating System
 
-📖 Contents
-# Operating System and Process
-
 📖 **Contents**
 
 ## 1. 운영체제의 개념과 프로세스 관리
