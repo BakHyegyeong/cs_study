@@ -24,8 +24,8 @@
    - [캐시와 버퍼의 차이점](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_05)
    - [메모리 단편화의 정의와 종류](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_07)
    - [내부 단편화와 외부 단편화의 차이점](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_07)
-   - 페이징과 세그멘테이션이란? 차이점은?
-   - 가상 메모리의 개념 및 장점
+   - [페이징과 세그멘테이션이란? 차이점은?](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_07)
+   - [가상 메모리의 개념 및 장점](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_08)
    - Thrashing(스로싱)의 개념과 발생 원인
 
 ---
