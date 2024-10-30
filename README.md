@@ -2,9 +2,9 @@
 
 ### 😀 참여자 
 
-|<img src="https://avatars.githubusercontent.com/abcdana" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/lin-chae" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/BakHyegyeong" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/wjdwwidz" width="150" height="150"/>
-|:-:|:-:|:-:|:-:|
-[**김다은**](https://github.com/abcdana)|[**김채린**](https://github.com/lin-chae)|[**박혜경**](https://github.com/BakHyegyeong)|[**이정혜**](https://github.com/wjdwwidz)|
+|<img src="https://avatars.githubusercontent.com/abcdana" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/lin-chae" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/BakHyegyeong" width="150" height="150"/>
+|:-:|:-:|:-:|
+[**김다은**](https://github.com/abcdana)|[**김채린**](https://github.com/lin-chae)|[**박혜경**](https://github.com/BakHyegyeong)|
 
 
 ### ⏰ 일정
