@@ -1,13 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=9EF1FB&height=300&section=header&text=인프런%20CS%20스터디&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Inflearn%20CS%20Study&fontAlign=69&textBg=false&fontSize=50&fontAlignY=40)
 
-### 😀 참여자 
+
+### 😀 Contributer
 
 |<img src="https://avatars.githubusercontent.com/abcdana" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/lin-chae" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/BakHyegyeong" width="150" height="150"/>
 |:-:|:-:|:-:|
 [**김다은**](https://github.com/abcdana)|[**김채린**](https://github.com/lin-chae)|[**박혜경**](https://github.com/BakHyegyeong)|
 
 
-### ⏰ 일정
+### ⏰ Schedule
 
 일시 : 매주 월~금 오후 1시 반
 
