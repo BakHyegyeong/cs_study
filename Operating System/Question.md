@@ -26,15 +26,15 @@
    - [내부 단편화와 외부 단편화의 차이점](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_07)
    - [페이징과 세그멘테이션이란? 차이점은?](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_07)
    - [가상 메모리의 개념 및 장점](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_08)
-   - [Thrashing(스래싱)의 개념과 발생 원인](https://github.com/BakHyegyeong/cs_study/tree/main/Operating%20System/OS_09)
+   - [Thrashing(스래싱)의 개념과 발생 원인](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_09)
 
 ---
 
 ## 4. 동기화와 동시성 제어
-   - 세마포어와 뮤텍스의 개념과 차이점
-   - 프로세스 간 통신(IPC) 방식
-   - Deadlock(교착 상태)의 개념과 발생 조건 4가지
-   - Deadlock을 예방하거나 해결하는 방법
+   - [세마포어와 뮤텍스의 개념과 차이점](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_10)
+   - [프로세스 간 통신(IPC) 방식](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_10)
+   - [Deadlock(교착 상태)의 개념과 발생 조건 4가지](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_11)
+   - [Deadlock을 예방하거나 해결하는 방법](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_11)
 
 ---
 
