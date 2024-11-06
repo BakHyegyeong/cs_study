@@ -40,5 +40,5 @@
 
 ## 5. 멀티태스킹 및 멀티프로세스/멀티스레드 적용 예시
    - [멀티프로세싱, 멀티프로그래밍, 멀티스레딩, 멀티태스킹의 차이점](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_12)
-   - 톰캣(Tomcat)은 멀티프로세스일까, 멀티스레드일까?
-   - 아파치(Apache)는 멀티프로세스일까, 멀티스레드일까?
+   - [톰캣(Tomcat)은 멀티프로세스일까, 멀티스레드일까?](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_13)
+   - [아파치(Apache)는 멀티프로세스일까, 멀티스레드일까?](https://github.com/inflearn-cs-study/cs/tree/main/Operating%20System/OS_13)
