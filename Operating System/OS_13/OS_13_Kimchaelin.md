@@ -12,6 +12,8 @@
 ###### 참고: 아파치 멀티 프로세스 https://niklasjang.tistory.com/56
 
 # 톰캣(Tomcat)은 멀티프로세스일까, 멀티스레드일까?
+<img src="https://blog.kakaocdn.net/dn/GnXky/btryXb1OIjc/CKjkDWWJ79TOxo0eddVKQK/img.png" width="70%">
+
 ### 톰캣
 - 톰켓은 서블릿 컨테이너만 있는 웹 애플리케이션 서버(WAS)
   - 서블릿 컨테이너
