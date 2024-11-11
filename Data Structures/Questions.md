@@ -3,7 +3,7 @@
 - ArrayList에서 크기를 동적으로 조정하는 방식은 무엇인가요?
 - Array와 ArrayList는 각각 어떤 상황에서 더 적합한가요?
 
-### Day 2: LinkedList
+### [Day 2: LinkedList](https://github.com/inflearn-cs-study/cs/tree/main/Data%20Structures/DS_02)
 - 단일 LinkedList와 이중 LinkedList의 차이는 무엇인가요?
 - LinkedList의 삽입/삭제 성능은 언제 효율적이지 않을 수 있나요?
 - ArrayList와 LinkedList는 각각 어떤 상황에서 선택하나요?
