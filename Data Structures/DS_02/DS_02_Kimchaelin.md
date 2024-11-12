@@ -35,9 +35,8 @@
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbaTweJ%2FbtrCqGK19ud%2FZAFSrf5ErtkqxXL69MEF91%2Fimg.png">
 
 - 원형 LinkedList
-  - 이중 연결 리스트와 똑같지만 마지막 노드의 next가 헤드 노드를 가리킴
-  - 이중 연결 리스트와 똑같이 삽입/삭제 시간이 걸림
-  - head 노드를 알면 tail 노드를 O(1)에 찾을 수 있음
+  - 마지막 노드의 next가 헤드 노드를 가리킴
+  - 단일 원형 리스트와 이중 원형 리스트로 나뉨
 
 # LinkedList의 삽입/삭제 성능은 언제 효율적이지 않을 수 있나요?
 - 첫 노드에서 삽입/삭제 시 O(1)의 시간 복잡도를 가지지만, 중간 위치에서 삽입/삭제 시 해당 위치에 도달하기 위해 앞에서부터 순회해야 하므로 O(n)의 시간 복잡도 발생.
