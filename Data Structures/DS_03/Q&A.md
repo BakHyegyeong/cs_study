@@ -35,3 +35,9 @@
 
 - **Array 기반의 스택:**
     - 용량 부족으로 재할당이 필요하면 배열 복사를 해야 하므로, **O(n)** 의 시간복잡도 발생
+
+### Q7. Stack, Queue ADT라고하는데 무엇인가요?
+- **ADT(Abstract Data Type):**
+    - 구현 방법을 명시하지 않고 자료구조의 특성 및 연산을 정의한 것
+    - **Stack ADT:** push, pop, peek 등의 연산을 정의
+    - **Queue ADT:** enQueue, deQueue, peek 등의 연산을 정의
