@@ -77,3 +77,5 @@
 |  | **연산자** | **삽입 위치** | **연산자** | **삭제 위치** |
 | **스택 (stack)** | push | top | pop | top |
 | **큐 (queue)** | enQueue | rear | deQueue | front |
+
+## [Stack과 Queue는 ADT이다.](https://ontheway.tistory.com/23)
