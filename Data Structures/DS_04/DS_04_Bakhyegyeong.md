@@ -130,3 +130,18 @@
 | 중복 허용 여부 | 중복 key는 허용하지 않지만, 중복 value는 허용 | 데이터 중복을 허용하지 않음 |
 | null 허용 여부 | key로 단 하나의 null 값 가능, value는 여러 개 가능 | 단 하나의 null 값 가능 |
 | 성능(속도) | HashSet보다 빠름 | HashMap보다 느림 |
+
+## HashMap VS HashTable
+
+: **동기화 지원 여부**
+
+- HashMap : 동기화를 지원 X, 병렬 처리를 하지 않거나 자원의 동기화를 고려하지 않는 상황
+- HashTable : 동기화를 지원 O, 병렬 처리를 하면서 자원의 동기화를 고려해야 하는 상황
+
+```java
+// HashMap의 put
+public V put(K key, V value) {
+
+// HashTable의 put
+public synchronized V put(K key, V value) {
+```
