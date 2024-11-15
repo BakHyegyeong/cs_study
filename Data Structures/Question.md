@@ -18,7 +18,7 @@
 - Hash Collision을 해결하는 방법에는 무엇이 있나요?
 - HashMap과 HashSet의 차이점은 무엇인가요?
 
-### Day 5: Tree와 Heap
+### [Day 5: Tree와 Heap](https://github.com/inflearn-cs-study/cs/tree/main/Data%20Structures/DS_05)
 - Binary Search Tree(BST)의 주요 특징과 장단점은 무엇인가요?
 - Heap은 우선순위 큐 구현에 어떻게 활용되나요?
 - 트리 순회의 방식과 각각의 사용 사례는 무엇인가요?
