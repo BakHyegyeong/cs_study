@@ -1,9 +1,9 @@
 # Java & Spring 면접 질문 정리
 
 ## Core Java 기본 개념
-1. 가비지 컬렉션이란
-2. `StringBuilder`와 `StringBuffer`의 차이
-3. JVM 메모리 영역의 구성
+1. [가비지 컬렉션이란](https://github.com/inflearn-cs-study/cs/tree/main/Java_Spring/JS_01)
+2. [`StringBuilder`와 `StringBuffer`의 차이](https://github.com/inflearn-cs-study/cs/tree/main/Java_Spring/JS_01)
+3. [JVM 메모리 영역의 구성](https://github.com/inflearn-cs-study/cs/tree/main/Java_Spring/JS_02)
 4. 오버로딩과 오버라이딩의 차이
 5. 추상 클래스와 인터페이스의 차이
 6. 제네릭(Generic)이란
