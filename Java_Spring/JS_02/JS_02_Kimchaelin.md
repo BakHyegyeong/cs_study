@@ -16,7 +16,7 @@
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcEjHLD%2Fbtq4YtqCAGY%2FrrVrI45UWSH2LqslkP8Wg0%2Fimg.png" width="70%">
 
 #### 프로그램 수행을 위해 OS로부터 할당받은 메모리 공간이며, 크게 5가지 영역으로 나뉜다.
-  - 프로그램 카운터 레지스터(PC Register) : 스레드마다 하나씩 존재하며, 스레드가 어떤 명령을 실행할지 가리키는 포인터로써, 현재 수행 중인 JVM 명령의 주소를 갖는다.
+  - 프로그램 카운터 레지스터(PC Register) : 스레드마다 하나씩 존재하며, 현재 스레드가 실행되는 부분의 주소와 명령을 저장한다.
   - JVM 스택 영역(JVM Stack Area) : 임시로 할당되았다가 메소드를 빠져나가면 소멸되는 매개변수, 지역변수, 리턴 값 등을 저장하는 영역
   - 네이티브 메소드 스택(Native method stack) : 컴파일된 자바 바이트 코드가 아닌 C, C++처럼 기계어로 작성된 코드를 실행하는 영역
   - 힙 영역(Heap Area) : new 키워드로 생성된 객체와 배열을 저장하는 영역으로, 가비지 컬렉터가 수거 대상을 찾아 메모리를 확보한다.
