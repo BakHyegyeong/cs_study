@@ -4,8 +4,8 @@
 1. [가비지 컬렉션이란](https://github.com/inflearn-cs-study/cs/tree/main/Java_Spring/JS_01)
 2. [`StringBuilder`와 `StringBuffer`의 차이](https://github.com/inflearn-cs-study/cs/tree/main/Java_Spring/JS_01)
 3. [JVM 메모리 영역의 구성](https://github.com/inflearn-cs-study/cs/tree/main/Java_Spring/JS_02)
-4. 오버로딩과 오버라이딩의 차이
-5. 추상 클래스와 인터페이스의 차이
+4. [오버로딩과 오버라이딩의 차이](https://github.com/inflearn-cs-study/cs/tree/main/Java_Spring/JS_03)
+5. [추상 클래스와 인터페이스의 차이](https://github.com/inflearn-cs-study/cs/tree/main/Java_Spring/JS_03)
 6. 제네릭(Generic)이란
 7. 접근 제어자 종류와 차이
 8. 자바 컴파일 과정
