@@ -61,7 +61,7 @@
   - equals가 두 객체를 다르다고 판단해도, 두 객체의 hashCode가 서로 다를 필요는 없다.
 
 ## 아이템 12. toString을 항상 재정의하라
-- toString을 재정의하지 않으면 클래스 정보가 출력되지 않는다. 
+- toString을 재정의하지 않으면 클래스 정보가 출력되지 않는다.
   - ex) PhoneNumber{areaCode=707, prefix=867, lineNumber=5309} -> PhoneNumber@adbbd(클래스 이름@16진수로 표현된 해시코드로 표시됨)
 - toString을 재정의하는 이유
   - 객체가 가진 주요 정보를 모두 반환해서 toString을 재정의하면 사용자가 읽기 쉬운 형태로 객체를 출력할 수 있다.

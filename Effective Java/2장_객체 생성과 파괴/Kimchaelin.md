@@ -106,3 +106,20 @@ public Object pop(){
 - try-finally은 try문을 빠져나갈 때, finally문이 실행되며, 에외가 발생하더라도 실행된다.
 - finally에 close()를 사용하여 자원을 해제한다.
 - try-with-resources는 AutoCloseable 인터페이스를 구현한 자원을 사용할 때, try()안에 자원을 선언하면, try문을 빠져나갈 때 자동으로 close()를 호출하여 자원을 해제한다.
+
+```java
+import java.io.BufferedInputStream;
+import java.io.BufferedWriter;
+
+static String firstLineOfFile(String path) throws IOException {
+    try (
+        FileInputStream fis = new FileInputStream(path);
+        BufferedInputStream bis = new BufferedInputStream(fis);
+    ) {
+        int date;
+        while ((date = fis.read()) != -1) {
+            System.out.println((char) date);
+        }
+    }
+}
+```
