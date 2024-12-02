@@ -18,24 +18,19 @@
 ## 자바 메모리 관리
 14. JVM 힙과 스택 메모리의 역할
 15. OutOfMemoryError 발생 원인
-16. "Stop the World"란
+16. "Stop the World"란?
 
 ## 객체 지향 원칙
-17. 다형성(Polymorphism)이란
-18. 상속과 컴포지션의 차이
-19. 캡슐화(encapsulation)란
-20. 싱글톤 패턴이란
-21. SOLID 원칙이란
+17. 객체지향 프로그래밍의 4가지 특징
+19. SOLID 원칙이란?
 
-## 자바 컬렉션 프레임워크 (JCF)
-22. `ArrayList`와 `LinkedList`의 차이
-23. 이터레이터(Iterator)란
-24. `HashMap`과 `Hashtable`의 차이
+## 디자인 패턴
+20. GoF 디자인패턴이란? (간략하게만)
 
 ## Java & Spring 통합 주제
-25. MVC 패턴이란
-26. 스프링과 스프링 부트의 차이
-27. IoC(Inversion of Control)란
-28. 의존성 주입(DI)이란
-29. 스프링의 빈(bean) 생명주기
-30. AOP(Aspect-Oriented Programming)이란
+21. MVC 패턴이란?
+22. 스프링과 스프링 부트의 차이
+23. IoC(Inversion of Control)란?
+24. 의존성 주입(DI)이란?
+25. 스프링의 빈(bean) 생명주기
+26. AOP(Aspect-Oriented Programming)이란?
