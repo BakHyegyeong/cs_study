@@ -19,6 +19,17 @@
     
 - **Native Method Stack(네이티브 메소드 스택) :** 자바 외의 언어(C, C++ 등)로 작성된 코드를 위한 메모리 영역이다. JNI를 통해 사용된다.
 
+# JVM 런타임 메모리 영역과 프로세스의 메모리 영역
+
+![](https://cdn.inflearn.com/public/files/posts/0e107917-7450-4a98-8fff-a09a2a9475d6/02-javaheap720x318.jpg)
+
+결론만 내자면 **프로세스의 힙 메모리 영역 안에 JVM 런타임 메모리 영역이 존재**한다. <br>
+JVM 자체는 C/C++ 프로그램이기 때문에 힙을 제외한 다른 모든 메모리 영역은 C 프로그램에서와 동일하게 작동한다.
+
+[프로세스 메모리영역과 JVM 메모리영역의 상관관계](https://www.inflearn.com/community/questions/1095377/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%98%81%EC%97%AD%EA%B3%BC-jvm-%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%98%81%EC%97%AD%EC%9D%98-%EC%83%81%EA%B4%80%EA%B4%80%EA%B3%84?srsltid=AfmBOoq1smL2SVl8epeZp5i-Dzc8q5fPQjl-7AuNNXtjUYywJBVJEpgp)
+
+[JVM의 메모리 구성요소와 영역에 관한 고찰](https://dkswnkk.tistory.com/440)
+
 ---
 
 # OutOfMemoryError
@@ -78,6 +89,11 @@ Full GC가 몇 초 단위로 계속 반복되고 CPU 사용률도 100%로 계속
 - Dump 파일 : 애플리케이션 운영 중 장애 혹은 성능 상 문제가 발생했을 때 애플리케이션의 상태를 스냅샷 형태로 파일로 저장한 것
 
 이 Dump 파일을 분석해 **장애 발생 시 애플리케이션이 어떤 상태였는지, 무엇이 원인이였는지를 확인**할 수 있다.
+
+### VisualVM
+: JVM 메모리 모니터링 도구
+
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FXBy0M%2FbtrZPTmW7QK%2FqalmiHuH6Y5vV6nTweOIck%2Fimg.png)
 
 ---
 
