@@ -22,7 +22,8 @@ public class UserService {
 컨테이너가 UserRepository 객체를 생성하고 UserService에 주입한다. 개발자는 객체 생성과 의존성 관리에 신경 쓰지 않아도 된다.
 
 ## 2. DI(Dependency Injection)란?
-의존성 주입(Dependency Injection)은 IoC를 구현하는 구체적인 방법 중 하나로, 객체가 필요한 의존성을 외부에서 주입받는 방식을 말합니다.
+의존성 주입(Dependency Injection)은 IoC를 구현하는 구체적인 방법.
+객체가 필요한 의존성을 외부에서 주입받는 방식을 말한다.
 
 ### DI의 주요 개념
 - **의존성** : 객체가 동작하기 위해 필요한 다른 객체
