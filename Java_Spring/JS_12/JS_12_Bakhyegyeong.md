@@ -80,12 +80,22 @@ public class A {
     }
 }
 ```
+### 필드 주입
 
-### 인터페이스 주입
+```java
+public class A {
+	// @Autowired를 사용하면 컨테이너가 자동으로 연결해준다.
+    @Autowired private B b;
+}
+```
+
+### +) 인터페이스 주입
+
+개방 폐쇄의 원칙(OCP)과 의존성 역전 원칙(DIP)을 기반한 전략 패턴
 
 ```java
 public interface BInjection {
-		// 어떤 의존성을 주입할 것인지 인터페이스에서 명시
+	// 어떤 의존성을 주입할 것인지 인터페이스에서 명시
     void inject(B b);
 }
 
