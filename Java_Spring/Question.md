@@ -28,9 +28,9 @@
 20. [GoF 디자인패턴이란? (간략하게만)](https://github.com/inflearn-cs-study/cs/tree/main/Java_Spring/JS_10)
 
 ## Java & Spring 통합 주제
-21. MVC 패턴이란?
-22. 스프링과 스프링 부트의 차이
-23. IoC(Inversion of Control)란?
-24. 의존성 주입(DI)이란?
-25. 스프링의 빈(bean) 생명주기
-26. AOP(Aspect-Oriented Programming)이란?
+21. [MVC 패턴이란?](https://github.com/inflearn-cs-study/cs/tree/main/Java_Spring/JS_11)
+22. [스프링과 스프링 부트의 차이](https://github.com/inflearn-cs-study/cs/tree/main/Java_Spring/JS_11)
+23. [IoC(Inversion of Control)란?](https://github.com/inflearn-cs-study/cs/tree/main/Java_Spring/JS_12)
+24. [의존성 주입(DI)이란?](https://github.com/inflearn-cs-study/cs/tree/main/Java_Spring/JS_12)
+25. [스프링의 빈(bean) 생명주기](https://github.com/inflearn-cs-study/cs/tree/main/Java_Spring/JS_13)
+26. [AOP(Aspect-Oriented Programming)이란?](https://github.com/inflearn-cs-study/cs/tree/main/Java_Spring/JS_13)
