@@ -161,7 +161,7 @@ ex) Oracle, MySQL, Microsoft SQL Server, PostgreSQL 등
 - **기수(Cardinality)** : 릴레이션에 들어있는 튜플의 개수
 - **스키마(Schema)** : W릴레이션의 이름과 릴레이션에 포함된 모든 속성의 이름으로 정의하는 릴레이션의 논리적 구조
 
-> ⭐ 릴레이션 스키마와 릴레이션 인스턴스 <br> - 릴레이션 스키마 : 테이블의 구조를 정의하는 설계도 <br> - 릴레이션 인스턴스 : 실제로 저장된 데이터의 행들
+> ⭐ 릴레이션 스키마와 릴레이션 인스턴스 <br> - 릴레이션 스키마 : 테이블의 구조를 정의하는 설계도 <br> - 릴레이션 인스턴스 : 실제로 저장된 데이터의 행들 ![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FEx8BB%2Fbtrq5o2lhzp%2FfHzWQoywrnACS5QWE9EVwk%2Fimg.png)
 
 
 ## ERD **(Entity-Relationship 다이어그램)**
