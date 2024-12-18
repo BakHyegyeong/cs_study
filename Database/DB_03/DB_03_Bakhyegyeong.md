@@ -1,0 +1,2 @@
+# SQL의 DDL, DML, DCL의 정의와 역할
+# INNER JOIN, OUTER JOIN, CROSS JOIN의 차이점
