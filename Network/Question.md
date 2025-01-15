@@ -1,6 +1,6 @@
 ## 네트워크 프로토콜 및 통신
 
-1. TCP와 UDP의 차이점은 무엇인가요?
+1. [TCP와 UDP의 차이점은 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_01)
 2. TCP의 3-way Handshaking과 4-way Handshaking의 차이를 설명해주세요. <br>
 2-1. 만약 3-way Handshaking 중 ACK가 누락된다면 어떤 일이 발생하나요? 
 3. TCP의 흐름제어 기법 중 슬라이딩 윈도우 방식은 무엇인가요? <br>
