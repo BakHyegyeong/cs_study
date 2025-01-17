@@ -1,12 +1,12 @@
 ## 네트워크 프로토콜 및 통신
 
 1. [TCP와 UDP의 차이점은 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_01)
-2. TCP의 3-way Handshaking과 4-way Handshaking의 차이를 설명해주세요. <br>
-2-1. 만약 3-way Handshaking 중 ACK가 누락된다면 어떤 일이 발생하나요? 
-3. TCP의 흐름제어 기법 중 슬라이딩 윈도우 방식은 무엇인가요? <br>
-3-1. 슬라이딩 윈도우에서 윈도우 크기가 커지면 어떤 장단점이 있을까요?
-4. TCP와 UDP의 패킷 구조 차이는 무엇인가요?
-5. HTTP Keep-Alive와 TCP Keep-Alive의 차이점을 설명해주세요.
+2. [TCP의 3-way Handshaking과 4-way Handshaking의 차이를 설명해주세요.](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_02) <br>
+2-1. [만약 3-way Handshaking 중 ACK가 누락된다면 어떤 일이 발생하나요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_02) 
+3. [TCP의 흐름제어 기법 중 슬라이딩 윈도우 방식은 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_02) <br>
+3-1. [슬라이딩 윈도우에서 윈도우 크기가 커지면 어떤 장단점이 있을까요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_02)
+4. [TCP와 UDP의 패킷 구조 차이는 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_03)
+5. [HTTP Keep-Alive와 TCP Keep-Alive의 차이점을 설명해주세요.](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_03)
 6. IOCP란 무엇인가요?
  6-1. IOCP가 Non-Blocking I/O와 어떤 점에서 차별화되나요?
 
