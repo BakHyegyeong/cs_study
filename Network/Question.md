@@ -7,9 +7,10 @@
 3-1. [슬라이딩 윈도우에서 윈도우 크기가 커지면 어떤 장단점이 있을까요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_02)
 4. [TCP와 UDP의 패킷 구조 차이는 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_03)
 5. [HTTP Keep-Alive와 TCP Keep-Alive의 차이점을 설명해주세요.](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_03)
-6. IOCP란 무엇인가요?
- 6-1. IOCP가 Non-Blocking I/O와 어떤 점에서 차별화되나요?
-
+6. [IOCP란 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_04) <br>
+6-1. [IOCP가 Non-Blocking I/O와 어떤 점에서 차별화되나요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_04)
+7. [브라우저에 네이버 홈페이지 URL을 입력했을 때 일어나는 과정](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_04) <br>
+8. 프록시 서버란?
 
 ## 웹 통신 및 HTTP/HTTPS
 
