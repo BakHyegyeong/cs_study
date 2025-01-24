@@ -16,9 +16,9 @@
 8-1. [HTTPS의 SSL Handshake 과정에서 클라이언트와 서버가 주고받는 주요 정보는 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_05)  
 9. [GET과 POST 메소드의 차이를 설명해주세요.](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_05)  
 9-1. [GET과 POST 중 보안 측면에서 더 적합한 메소드는 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_05)  
-10. WebSocket이란 무엇인가요?  
-10-1. WebSocket은 HTTP와 비교해 어떤 상황에서 더 적합한가요?  
-11. HTTP Polling과 HTTP Long Polling의 차이는 무엇인가요?  
+10. [WebSocket이란 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_06)
+10-1. [WebSocket은 HTTP와 비교해 어떤 상황에서 더 적합한가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_06)
+11. [HTTP Polling과 HTTP Long Polling의 차이는 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_06) 
 12. RESTful API란 무엇인가요?  
 12-1. RESTful API를 설계할 때 HTTP 메소드와 상태 코드를 어떻게 활용하나요?  
 
