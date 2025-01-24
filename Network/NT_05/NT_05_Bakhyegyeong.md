@@ -56,6 +56,8 @@
 
 → HTTPS 연결 과정에서 SSL Handshake가 이루어지며 대칭키 암호화 방식과 비대칭키 암호화 방식이 모두 사용된다.
 
+→ HTTPS는 HTTP와 달리 전송 전에 SSL Handshake과정을 거치므로 **속도가 살짝 느리다.**
+
 ### SSL Handshake
 
 
@@ -95,6 +97,7 @@
 > ⭐
 > - 클라이언트가 인증서의 공개키로 pre master secret 암호화하고 서버에서 이를 개인키로 복호화는 과정 - 비대칭키 방식
 > - session key를 활용한 암호화 방식의 통신 - 대칭키 방식
+
 
 <br>
 
