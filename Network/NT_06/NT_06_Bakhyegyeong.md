@@ -114,6 +114,22 @@ const socket = new WebSocket("ws://example/chat");
 3. 방향 통신
     - HTTP : 단방향 통신
     - WebSocket : 양방향 통신
+  
+## WebSocket과 Socket의 차이점
+
+- 위치
+    - Socket : 응용계층과 전송 계층 사이에 존재한다.
+    - Web Socket : 응용 계층에서 사용된다.
+- 정의
+    - Socket : 프로그램이 네트워크에서 데이터를 주고받을 수 있도록 네트워크 환경에 연결할 수 있게 만들어진 **연결부**
+        
+        ![](https://velog.velcdn.com/images/_hye/post/f49aa1de-2317-4260-bc65-73f28a1a93ec/image.png)
+        
+    - Web Socket : 실시간 웹 애플리케이션을 위해 설계된 통신 프로토콜
+- 초기 연결 과정
+    - Socket : 서버와 클라이언트 각각 소켓을 생성하고 클라이언트 쪽에서 서버의 ip와 port번호를 통해 연결 시도
+        ![](https://velog.velcdn.com/images/_hye/post/4d2bc4ce-4ce0-4053-ba59-f87c906bde97/image.png)
+    - Web Socket : HTTP Request를 통한 HandShake
 
 ## WebSocket 문제점
 
