@@ -19,13 +19,13 @@
 10. [WebSocket이란 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_06)
 10-1. [WebSocket은 HTTP와 비교해 어떤 상황에서 더 적합한가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_06)
 11. [HTTP Polling과 HTTP Long Polling의 차이는 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_06) 
-12. RESTful API란 무엇인가요?  
-12-1. RESTful API를 설계할 때 HTTP 메소드와 상태 코드를 어떻게 활용하나요?  
+12. [RESTful API란 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_07) <br>
+12-1. [RESTful API를 설계할 때 HTTP 메소드와 상태 코드를 어떻게 활용하나요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_07)
 
 ## 보안 및 정책
 
-13. Session과 Cookie의 차이는 무엇인가요?  
-13-1. 쿠키의 Secure 속성과 HttpOnly 속성은 각각 어떤 역할을 하나요?  
+13. [Session과 Cookie의 차이는 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_07) <br>
+13-1. [쿠키의 Secure 속성과 HttpOnly 속성은 각각 어떤 역할을 하나요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_07)  
 14. SOP와 CORS란 무엇인가요?  
 14-1. CORS 정책에서 preflight 요청이 필요한 경우는 어떤 상황인가요?  
 15. SSL/TLS란 무엇인가요?  
