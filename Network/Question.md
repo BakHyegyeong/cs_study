@@ -16,7 +16,7 @@
 8-1. [HTTPS의 SSL Handshake 과정에서 클라이언트와 서버가 주고받는 주요 정보는 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_05)  
 9. [GET과 POST 메소드의 차이를 설명해주세요.](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_05)  
 9-1. [GET과 POST 중 보안 측면에서 더 적합한 메소드는 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_05)  
-10. [WebSocket이란 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_06)
+10. [WebSocket이란 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_06) <br>
 10-1. [WebSocket은 HTTP와 비교해 어떤 상황에서 더 적합한가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_06)
 11. [HTTP Polling과 HTTP Long Polling의 차이는 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_06) 
 12. [RESTful API란 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_07) <br>
@@ -26,15 +26,15 @@
 
 13. [Session과 Cookie의 차이는 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_07) <br>
 13-1. [쿠키의 Secure 속성과 HttpOnly 속성은 각각 어떤 역할을 하나요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_07)  
-14. [SOP와 CORS란 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_08)
+14. [SOP와 CORS란 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_08) <br>
 14-1. [CORS 정책에서 preflight 요청이 필요한 경우는 어떤 상황인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_08)  
-15. SSL/TLS란 무엇인가요?  
-15-1. TLS는 어떤 방식으로 데이터의 무결성과 기밀성을 보장하나요?  
+15. [SSL/TLS란 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_09) <br>
+15-1. [TLS는 어떤 방식으로 데이터의 무결성과 기밀성을 보장하나요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_09)
 
 ## 네트워크 구조 및 장치
 
-16. OSI 7계층과 TCP/IP 4계층의 차이를 설명해주세요.  
-16-1. TCP/IP의 네트워크 계층에서 사용하는 주요 프로토콜은 무엇인가요?
+16. [OSI 7계층과 TCP/IP 4계층의 차이를 설명해주세요.](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_09)  <br>
+16-1. [TCP/IP의 네트워크 계층에서 사용하는 주요 프로토콜은 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_09)
 17. 리피터, 허브, 브리지, 라우터는 무엇인가요?  
 17-1. 브리지와 스위치의 차이는 무엇인가요?
 18. L7 스위치와 L4 스위치의 차이는 무엇인가요?  
