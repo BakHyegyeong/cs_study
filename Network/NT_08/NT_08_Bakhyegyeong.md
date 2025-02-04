@@ -57,7 +57,7 @@
 
 ![](https://hudi.blog/static/e622e1c7cb555d792007aea5c9b1695d/02d09/simple-request.png)
 
-1. 브라우저 : 다른 출처로의 요청을 보낼 때 자동으로 **HTTP 헤더에 Origin을 추가**해 요청
+1. 브라우저 : 다른 출처로의 요청을 보낼 때 자동으로 **HTTP 헤더에 Origin([자신의 브라우저의 url](https://ondemand.tistory.com/300))을 추가**해 요청
 2. 서버 : 응답 헤더에 **`Access-Control-Allow-Origin`** 을 담아서 전송
     
     → 허가된 출처 정보를 담아 브라우저가 SOP 위반 여부를 판단하게 한다.
