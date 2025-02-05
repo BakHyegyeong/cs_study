@@ -35,10 +35,10 @@
 
 16. [OSI 7계층과 TCP/IP 4계층의 차이를 설명해주세요.](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_09)  <br>
 16-1. [TCP/IP의 네트워크 계층에서 사용하는 주요 프로토콜은 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_09)
-17. 리피터, 허브, 브리지, 라우터는 무엇인가요?  
-17-1. 브리지와 스위치의 차이는 무엇인가요?
-18. L7 스위치와 L4 스위치의 차이는 무엇인가요?  
-18-1. L7 스위치가 로드 밸런싱에서 유리한 이유는 무엇인가요?  
+17. [리피터, 허브, 브리지, 라우터는 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_10)  <br>
+17-1. [브리지와 스위치의 차이는 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_10) 
+18. [L7 스위치와 L4 스위치의 차이는 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_10) <br>
+18-1. [L7 스위치가 로드 밸런싱에서 유리한 이유는 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_10)  
 
 ## DNS 및 부하 분산
 
