@@ -22,3 +22,31 @@
 
 ## Q6. 라우터의 역할은 무엇인가요?
 - 라우터는 네트워크 계층(OSI 3계층)에서 작동하며, IP 주소를 기반으로 최적의 경로를 설정하고 데이터를 전달하는 역할을 함.
+
+## Q7. SSL/TLS란 무엇인가요?
+
+- SSL(Secure Sockets Layer)과 TLS(Transport Layer Security)는 인터넷 통신을 보호하는 암호화 프로토콜이다. 
+- TLS는 SSL의 발전된 버전으로, 웹사이트와 사용자 간의 통신을 암호화하여 기밀성을 보장하며, HTTPS의 기반이 된다.
+
+## Q8. TLS는 어떤 방식으로 데이터의 무결성과 기밀성을 보장하나요?
+TLS는 다음과 같은 방식으로 보안을 제공한다.
+- 기밀성(Confidentiality): 대칭키 암호화(AES, ChaCha20)와 공개키 암호화(RSA, ECDHE)를 사용하여 데이터 보호
+- 무결성(Integrity): HMAC(Hash-based Message Authentication Code)를 활용하여 데이터 변조 방지
+- 인증(Authentication): X.509 인증서를 사용하여 서버 및 클라이언트를 검증
+
+## Q9. OSI 7계층과 TCP/IP 4계층 모델의 차이점은 무엇인가요?
+- OSI 모델은 7계층(물리, 데이터링크, 네트워크, 전송, 세션, 표현, 응용 계층)으로 구성되며 개념적으로 세분화되어 있다.
+- TCP/IP 모델은 4계층(네트워크 인터페이스, 인터넷, 전송, 응용 계층)으로 단순화되어 실용성을 중시한다.
+- TCP/IP 모델은 실제 네트워크 구현에 기반하며, OSI 모델은 이론적인 참조 모델이다.
+
+## Q10. 전송 계층(Transport Layer)에서 TCP와 UDP의 차이점은 무엇인가요?
+- TCP(Transmission Control Protocol): 연결 지향, 신뢰성 보장(3-way handshake, 흐름 제어, 오류 검출), 속도는 상대적으로 느림 (ex. HTTP, FTP)
+- UDP(User Datagram Protocol): 비연결 지향, 신뢰성 없음, 빠른 전송 속도 (ex. DNS, VoIP, 스트리밍)
+
+## Q11. TCP/IP 네트워크 계층에서 사용하는 주요 프로토콜은 무엇인가요?
+- IP(Internet Protocol): 패킷을 목적지까지 라우팅
+- ICMP(Internet Control Message Protocol): 네트워크 오류 및 상태 확인 (ping)
+- ARP(Address Resolution Protocol): IP 주소를 MAC 주소로 변환
+- RARP(Reverse ARP): MAC 주소를 IP 주소로 변환
+- IGMP(Internet Group Management Protocol)**: 멀티캐스트 그룹 관리 
+
