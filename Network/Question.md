@@ -42,8 +42,8 @@
 
 ## DNS 및 부하 분산
 
-19. DNS의 Round Robin 방식이란 무엇인가요?  
-19-1. Round Robin 방식이 사용되었을 때 발생할 수 있는 문제점은 무엇인가요?  
-20. 프록시 서버란 무엇인가요?  
-20-1. 프록시 서버를 활용한 캐싱의 장점은 무엇인가요?  
-21. 로드 밸런싱과 클러스터링의 차이를 설명해주세요.
+19. [DNS의 Round Robin 방식이란 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_11)   
+19-1. [Round Robin 방식이 사용되었을 때 발생할 수 있는 문제점은 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_11)
+20. [프록시 서버란 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_11) <br>
+20-1. [프록시 서버를 활용한 캐싱의 장점은 무엇인가요?](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_11)
+21. [로드 밸런싱과 클러스터링의 차이를 설명해주세요.](https://github.com/inflearn-cs-study/cs/tree/main/Network/NT_12)
