@@ -1,0 +1,4 @@
+- 소프트웨어 생명 주기 모델(SDLC)이란?
+- SDLC에서 어떤 모델이 존재하는가? (폭포수, V-모델, 애자일 등)
+- Agile 방법론이란?
+- TDD(Test-Driven Development)란?
